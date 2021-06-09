@@ -1,2 +1,4 @@
-# GRIP-June-21
-These are my submissions as a Data Science and Business Analytics intern at The Sparks Foundation for their Graduate Rotational Internship Program
+Here are the links for all the dataset used in the projects:
+
+Task 1: http://bit.ly/w-data
+Task 2: https://bit.ly/3kXTdox
